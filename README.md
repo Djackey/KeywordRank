@@ -1,1 +1,2 @@
-# KeywordRank
+一个简单的百度排名python小程序（支持批量查询）
+按照paimincx.xls里的格式运行excelbaidurank.py即可
